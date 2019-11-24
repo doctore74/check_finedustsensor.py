@@ -6,8 +6,8 @@ https://luftdaten.info/en/construction-manual/
 
 checkmk
 --------
-https://mathias-kettner.com/
-Successfully tested on checkmk RAW version 1.5.0 (stable)
+https://checkmk.com/
+Successfully tested on checkmk RAW version 1.6.0 (stable)
 
 Path
 ----
