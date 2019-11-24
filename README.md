@@ -1,13 +1,13 @@
 # check_finedustsensor.py
-Check_MK datasource program for luftdaten.info finedustsensors.
+checkmk datasource program for luftdaten.info finedustsensors.
 
 Build the finedustsensors with the following instructions:
 https://luftdaten.info/en/construction-manual/
 
-Check_MK
+checkmk
 --------
 https://mathias-kettner.com/
-Successfully tested on Check_MK RAW version 1.5.0 (stable)
+Successfully tested on checkmk RAW version 1.5.0 (stable)
 
 Path
 ----
